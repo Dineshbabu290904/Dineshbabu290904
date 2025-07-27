@@ -320,11 +320,8 @@ console.log("Welcome to my GitHub profile! 🎉");
 </div>
 
 ### 🎯 Contribution Highlights
-- 🔧 **Maintained Projects:** 15+ repositories with regular updates
-- 🐛 **Bug Fixes:** Resolved 50+ issues across various projects
-- 💡 **Feature Additions:** Contributed new features to 10+ open source projects
+- 🐛 **Bug Fixes:** Resolved 50+ issues across my various projects
 - 📝 **Documentation:** Improved docs for better developer experience
-- 🤝 **Community:** Active in code reviews and technical discussions
 
 ---
 
