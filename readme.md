@@ -1,6 +1,8 @@
+<div align="center">
+  
 # 🚀 Dinesh Babu Surapaneni - Developer Dashboard
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%26+AI+Enthusiast;Architecting+Digital+Experiences;Transforming+Ideas+into+Scalable+Solutions)](https://git.io/typing-svg)
 
 ```ascii
 ╭─────────────────────────────────────────────────╮
@@ -9,7 +11,10 @@
 ╰─────────────────────────────────────────────────╯
 ```
 
-[![GitHub](https://img.shields.io/github/followers/dineshbabu290904?label=Follow&style=social)](https://github.com/dineshbabu290904) [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:dineshbabus309@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dinesh-babu-surapaneni/)
+[![GitHub](https://img.shields.io/github/followers/dineshbabu290904?label=Follow&style=social)](https://github.com/dineshbabu290904) 
+[![Email](https://img.shields.io/badge/Email-dineshbabus309@gmail.com-blue?style=flat&logo=gmail)](mailto:dineshbabus309@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh_Babu_Surapaneni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinesh-babu-surapaneni/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-green?style=flat&logo=web)](https://dineshbabus.netlify.app/)
 
 </div>
 
@@ -19,35 +24,18 @@
 <tr>
 <td width="60%">
 
-## 📊 Overview Dashboard
+## 🎯 Professional Summary
 
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 **Profile**
 ```yaml
 Name: Dinesh Babu Surapaneni
-Role: Full-Stack Architect
+Role: Full-Stack Architect & AI Developer
 Location: Penamaluru, India 🇮🇳
-Education: B.Tech CS
 Experience: 4+ Years
+Specialization: Cloud-Native Solutions & AI Integration
+Education: B.Tech Computer Science
 ```
 
-</td>
-<td width="50%">
-
-### 🎯 **Current Focus**
-- **Project:** Medixphere (AI Healthcare)
-- **Learning:** System Design, Cloud
-- **Goals:** Microservices, Leadership
-- **Certs:** Google Cloud, AWS
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Technology Stack
+## 🛠️ Technology Arsenal
 
 | **Category** | **Technologies** |
 |:---:|:---|
@@ -58,86 +46,51 @@ Experience: 4+ Years
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) |
 | **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) |
 
-</td>
-<td width="40%">
 
-## 📈 GitHub Analytics
+## 🌟 Flagship Projects
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=dineshbabu290904&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&card_width=400"/>
+### 🏥 Medixphere - AI-Powered Healthcare Platform
+- 🔍 Smart medical data analysis & real-time monitoring
+- 🤖 Predictive analytics for patient care
+- 🛠️ `React` `Node.js` `MongoDB` `Express.js` `AI/ML`
+- [![Repo](https://img.shields.io/badge/GitHub-View_Project-000000?style=flat&logo=github)](https://github.com/Dineshbabu290904/Medixphere)
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshbabu290904&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&card_width=400"/>
+### ⚡ SwiftShare - Secure File Transfer System
+- 🔒 End-to-end encrypted file sharing
+- ⚡ Real-time transfer progress & status
+- 🛠️ `Firebase` `Real-time DB` `Security Protocols`
+- [![Repo](https://img.shields.io/badge/GitHub-View_Project-000000?style=flat&logo=github)](https://github.com/Dineshbabu290904/swiftshare)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dineshbabu290904&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="120"/>
-
-### 📊 **Quick Stats**
-- **Projects:** 4+ Major Completed
-- **Tech Stack:** 15+ Technologies
-- **Contributions:** Active Open Source
-- **Focus:** Cross-Platform Development
-
-</td>
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-<td width="60%">
-
-## 🏆 Featured Projects
-
-### 🏥 **Medixphere** - Healthcare Platform
-📋 Smart medical data, real-time monitoring, predictive analytics  
-🔧 `React` `Node.js` `MongoDB` `Express.js`  
-<div align="center">
-
-  [![Repo](https://img.shields.io/badge/GitHub-View-000000?style=flat&logo=github)](https://github.com/Dineshbabu290904/Medixphere)
-</div>
-
-### ⚡ **SwiftShare** - File Transfer System
-📋 Instant sharing, secure transmission, multi-platform  
-🔧 `Firebase` `Real-time DB`  
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/GitHub-View-000000?style=flat&logo=github)](https://github.com/Dineshbabu290904/swiftshare)
-</div>
-
-### 🎓 **College Management** - Admin Portal
-📋 Student lifecycle, workflows, analytics dashboard  
-🔧 `Javascript`  `React` `Node.js` `MongoDB` `Express.js` `tailwindcss` 
-[![Repo](https://img.shields.io/badge/GitHub-View-000000?style=flat&logo=github)](https://github.com/Dineshbabu290904/cMS-Backend) [![Live](https://img.shields.io/badge/Live-Demo-00C851?style=flat)](https://dineshcms.vercel.app/)
-
-### 🧠 **YouTube Sentiment** - AI Analyzer
-📋 Comment analysis, BERT integration, real-time processing  
-🔧 `Python` `Flask` `BERT` `NLP`  
-[![Repo](https://img.shields.io/badge/GitHub-View-000000?style=flat&logo=github)](https://github.com/Dineshbabu290904/YouTube-Comment-Sentiment-Analysis) [![Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat)](https://demo-data-science-mlsa-pvpsit.streamlit.app/)
+### 🎓 College Management System
+- 📊 Comprehensive admin dashboard
+- 🔄 Automated workflow management
+- 🛠️ `MERN Stack` `Tailwind CSS` `JWT Auth`
+- [![Live Demo](https://img.shields.io/badge/Live-Demo-00C851?style=flat&logo=vercel)](https://dineshcms.vercel.app/)
 
 </td>
 <td width="40%">
+  
+## 🎯 **Current Focus**
+- **Learning:** System Design, Cloud
+- **Goals:** Microservices, Leadership
+- **Certs:** Google Cloud, AWS
 
-## 🎯 Development Journey
+## 📈 Performance Analytics
 
-### 🌱 **Learning**
+<img src="https://github-profile-trophy.vercel.app/?username=dineshbabu290904&theme=darkhub&column=3&margin-w=15&margin-h=10" alt="Trophies" />
+
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=dineshbabu290904&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshbabu290904&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dineshbabu290904&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+## 🌱 **Learning**
 - System Design
-- Microservices
 - Cloud-Native Dev
 - AI/ML Engineering
-- Kubernetes
 
-### 🏅 **Achievements**
-- Google Cloud Certified
-- AWS Developer Associate
-- 50+ Repositories
-- Open Source Contributor
-- Technical Mentor
 
-### 🎯 **Goals 2024**
-- Master Microservices
-- Kubernetes Admin Cert
-- Tech Leadership
-- Major OSS Contribution
-- AI Product Launch
 
 </td>
 </tr>
@@ -147,7 +100,14 @@ Experience: 4+ Years
 
 <div align="center">
 
-  **🌟 Ready to build something extraordinary together?**
-  
-<a href="https://github.com/dineshbabu290904"><img src="https://komarev.com/ghpvc/?username=dineshbabu290904&color=blueviolet&style=flat"></a>
+### 📫 Let's Connect and Build Something Amazing!
+
+[![Email](https://img.shields.io/badge/Email-dineshbabus309@gmail.com-blue?style=flat&logo=gmail)](mailto:dineshbabus309@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh_Babu_Surapaneni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dinesh-babu-surapaneni/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-green?style=flat&logo=web)](https://dineshbabus.netlify.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dineshbabu290904&color=blueviolet&style=flat-square&label=Profile+Views)
+
+*"Building the future, one commit at a time"*
+
 </div>
